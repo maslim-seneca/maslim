@@ -1,0 +1,117 @@
+.
+├── Baseline_Bash_Script.txt
+├── .git
+│   ├── branches
+│   ├── config
+│   ├── description
+│   ├── HEAD
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   │       ├── heads
+│   │       │   └── main
+│   │       └── remotes
+│   │           └── origin
+│   │               └── HEAD
+│   ├── objects
+│   │   ├── 00
+│   │   │   └── 15ef21bfd44cf60b0da4085f3dc7e5ca7f82fb
+│   │   ├── 15
+│   │   │   └── 13d7e439f478be92efb7dca84ce84c449dcf0b
+│   │   ├── 26
+│   │   │   └── 849e5047fb19aeadcdbd7c7b5a19180fa085fe
+│   │   ├── 2b
+│   │   │   └── eadc36626d1cc5ef1959ad2df07ef350d0a4e0
+│   │   ├── 2c
+│   │   │   └── 1171297bfd24f334637781856f424887e40af8
+│   │   ├── 30
+│   │   │   └── a0b2d1b5b826e0131edfdac131b0ef521e3809
+│   │   ├── 33
+│   │   │   └── b42cb63e9b0449975d276529820949b96eece7
+│   │   ├── 37
+│   │   │   └── 3e0b965d5a90f937a38884bdabdc6a009169e2
+│   │   ├── 3a
+│   │   │   └── 0f4b146ca61d0970bc5ff637de19dea8334ede
+│   │   ├── 3f
+│   │   │   └── 8d72bc2d7106e4472b4d0c82a65384d31cfe76
+│   │   ├── 4d
+│   │   │   └── 388ce833796c252d289bf48d2a1406e139acc7
+│   │   ├── 54
+│   │   │   └── b69deddacbe7222e60b762de95e1298e863980
+│   │   ├── 5e
+│   │   │   └── c793376ec2745f99c6160a62a49f2a2a906b7c
+│   │   ├── 65
+│   │   │   └── c545db2196794aa5d237ae0a9aa91f635e2e12
+│   │   ├── 66
+│   │   │   └── 6cc923b694bce6d5fa7de2f70ac67f5c995d54
+│   │   ├── 70
+│   │   │   └── 601078b2468537a27fcaae69a43e2e6c211a90
+│   │   ├── 75
+│   │   │   ├── 564d6fa8872917c4bcfdd8601928c1f030695e
+│   │   │   └── 804b9b0cdef50ab0af706bf0e488fd57b734bc
+│   │   ├── 90
+│   │   │   └── 08e235260c3f46884e820ca87f7ecb4fb09e3a
+│   │   ├── 93
+│   │   │   └── eea0755b4f5e6b9831ff1e9a7e160c5a51c307
+│   │   ├── 97
+│   │   │   └── 9f693290f840ed46987d3b6760d3e9fa6624ee
+│   │   ├── a5
+│   │   │   └── 7332a0d7d1ceda45d1d483026065c14e3add7b
+│   │   ├── ad
+│   │   │   └── 40db1140b4cea97224232423ce03483482e782
+│   │   ├── b0
+│   │   │   └── 71bc6a81652215307800945cf09b81be28a71a
+│   │   ├── b2
+│   │   │   └── a64fcce29e4e8a53bf7effcba6841788426227
+│   │   ├── b4
+│   │   │   └── ec1ef5e86ff8a926ed3986d4d4f12355400477
+│   │   ├── c4
+│   │   │   └── 389f42e60e9b8264a3567c25518f5585c47844
+│   │   ├── c9
+│   │   │   └── e36159134912dbca7c7c1e17ade2227dba1092
+│   │   ├── df
+│   │   │   └── e0770424b2a19faf507a501ebfc23be8f54e7b
+│   │   ├── e0
+│   │   │   └── d3a31900d8291cd0daa282d819b6306f706224
+│   │   ├── e1
+│   │   │   └── 353f705007ae21880c1f2bfc9d6eea5a61539c
+│   │   ├── f5
+│   │   │   └── 9430af7e2a1a95efc80d71cef18374d4d1d2ee
+│   │   ├── f8
+│   │   │   └── 9eca1057030f104fffef6d70788e7ebaf5480f
+│   │   ├── info
+│   │   └── pack
+│   ├── packed-refs
+│   └── refs
+│       ├── heads
+│       │   └── main
+│       ├── remotes
+│       │   └── origin
+│       │       └── HEAD
+│       └── tags
+├── .gitattributes
+├── gitlog.txt
+├── lab1_base_maslim.sh
+├── maslim_gateway_base.txt
+├── maslim_vm2_base.txt
+├── maslim_vm3_base.txt
+├── maslim_vm4_base.txt
+├── README.md
+└── repo_tree.txt
+
+49 directories, 65 files

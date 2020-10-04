@@ -1,0 +1,78 @@
+commit b4ec1ef5e86ff8a926ed3986d4d4f12355400477
+Author: root <root@localhost.localdomain>
+Date:   Sun Oct 4 04:21:07 2020 -0400
+
+    vm4
+
+commit 26849e5047fb19aeadcdbd7c7b5a19180fa085fe
+Author: root <root@localhost.localdomain>
+Date:   Sun Oct 4 04:17:24 2020 -0400
+
+    vm3
+
+commit 33b42cb63e9b0449975d276529820949b96eece7
+Merge: 65c545d ad40db1
+Author: root <root@localhost.localdomain>
+Date:   Sun Oct 4 04:10:37 2020 -0400
+
+    Merge branch 'main' of https://github.com/maslim-seneca/maslim into main
+
+commit 65c545db2196794aa5d237ae0a9aa91f635e2e12
+Author: root <root@localhost.localdomain>
+Date:   Sun Oct 4 04:07:47 2020 -0400
+
+    gg
+
+commit 70601078b2468537a27fcaae69a43e2e6c211a90
+Author: root <root@localhost.localdomain>
+Date:   Sun Oct 4 04:05:30 2020 -0400
+
+    fixed
+
+commit 1513d7e439f478be92efb7dca84ce84c449dcf0b
+Author: root <root@localhost.localdomain>
+Date:   Sun Oct 4 04:03:47 2020 -0400
+
+    vm2
+
+commit ad40db1140b4cea97224232423ce03483482e782
+Author: maslim-seneca <49294365+maslim-seneca@users.noreply.github.com>
+Date:   Sun Oct 4 03:52:05 2020 -0400
+
+    Update Baseline_Bash_Script.txt
+
+commit 3a0f4b146ca61d0970bc5ff637de19dea8334ede
+Author: root <root@localhost.localdomain>
+Date:   Sun Oct 4 03:43:19 2020 -0400
+
+    gateway
+
+commit c9e36159134912dbca7c7c1e17ade2227dba1092
+Author: maslim-seneca <49294365+maslim-seneca@users.noreply.github.com>
+Date:   Sat Oct 3 21:53:15 2020 -0400
+
+    Add files via upload
+
+commit 373e0b965d5a90f937a38884bdabdc6a009169e2
+Author: maslim-seneca <49294365+maslim-seneca@users.noreply.github.com>
+Date:   Sat Oct 3 21:44:43 2020 -0400
+
+    Delete Baseline_Bash_Script.txt
+
+commit 2c1171297bfd24f334637781856f424887e40af8
+Author: maslim-seneca <49294365+maslim-seneca@users.noreply.github.com>
+Date:   Sat Oct 3 21:43:30 2020 -0400
+
+    Add files via upload
+
+commit 5ec793376ec2745f99c6160a62a49f2a2a906b7c
+Author: maslim-seneca <49294365+maslim-seneca@users.noreply.github.com>
+Date:   Mon Sep 28 19:42:41 2020 -0400
+
+    Update README.md
+
+commit 54b69deddacbe7222e60b762de95e1298e863980
+Author: maslim-seneca <49294365+maslim-seneca@users.noreply.github.com>
+Date:   Mon Sep 28 19:39:34 2020 -0400
+
+    Initial commit
